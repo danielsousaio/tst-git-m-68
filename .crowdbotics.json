@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.6.2",
+    "cookiecutter_context": {
+      "project_name": "tst-git-m",
+      "project_slug": "tst_git_m_68",
+      "project_dash_slug": "tst-git-m-68",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "daniel.s@crowdbotics.com",
+      "ssh_key_fingerprint": ""
+    }
+  }
+}
